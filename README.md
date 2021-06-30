@@ -9,3 +9,8 @@ Top Vacation Spots
 
 ### Video
 Learn CSS Visual Rules --- [Link to video](https://www.youtube.com/watch?v=InA5Ff7mxrc&ab_channel=Codecademy)
+
+## The Box Model
+
+### Tasks:
+Lake Blog
